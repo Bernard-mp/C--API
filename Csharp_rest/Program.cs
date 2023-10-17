@@ -25,11 +25,11 @@ app.UseAuthorization();
 app.MapControllers();
 
 
-//pizza starts here
+//pizza starts here 
 app.MapGet("/pizzas/{id}", (int id) => PizzaDB.GetPizza(id));
 app.MapGet("/pizzas", () => PizzaDB.GetPizzas());
 app.MapPost("/pizzas", (Pizza pizza) => PizzaDB.CreatePizza(pizza));
 app.MapPut("/pizzas", (Pizza pizza) => PizzaDB.UpdatePizza(pizza));
 app.MapDelete("/pizzas/{id}", (int id) => PizzaDB.RemovePizza(id));
-
+// ends here
 app.Run();
