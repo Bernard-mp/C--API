@@ -1,0 +1,11 @@
+C:\Users\Deepak.Murali\source\repos\Csharp_rest\out\Csharp_rest.exe
+C:\Users\Deepak.Murali\source\repos\Csharp_rest\out\appsettings.Development.json
+C:\Users\Deepak.Murali\source\repos\Csharp_rest\out\appsettings.json
+C:\Users\Deepak.Murali\source\repos\Csharp_rest\out\Csharp_rest.dll
+C:\Users\Deepak.Murali\source\repos\Csharp_rest\out\Csharp_rest.deps.json
+C:\Users\Deepak.Murali\source\repos\Csharp_rest\out\Csharp_rest.runtimeconfig.json
+C:\Users\Deepak.Murali\source\repos\Csharp_rest\out\Csharp_rest.pdb
+C:\Users\Deepak.Murali\source\repos\Csharp_rest\out\Microsoft.OpenApi.dll
+C:\Users\Deepak.Murali\source\repos\Csharp_rest\out\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\Deepak.Murali\source\repos\Csharp_rest\out\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\Deepak.Murali\source\repos\Csharp_rest\out\Swashbuckle.AspNetCore.SwaggerUI.dll
